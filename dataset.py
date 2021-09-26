@@ -2,7 +2,7 @@
 """
 Created on Wed May 26 02:40:52 2021
 
-@author: Kutalmış
+@author: 
 """
 
 import tweepy
@@ -17,10 +17,10 @@ import matplotlib.pyplot as plt
 from nltk.stem.porter import PorterStemmer
 
 #Twitter API credentials
-consumerKey="dSfolEQezmcaGCP8RmRypIXS6"
-consumerSecret="OXB8k9tIeK6ONt8nPXrdXPhje6slTclbWZRlCj4ChmMsG989NE"
-accessToken="545887288-aONnOFpmoGUhYVvDi74vz8xWdDPZqPOdkdrEkMiC"
-accessTokenSecret="HlUUPcXKXnNbNb3oeAksIlz1NcyiorvtqL8vFZA80r2cz"
+consumerKey="****"
+consumerSecret="*****"
+accessToken="***********"
+accessTokenSecret="********"
 keys=[]
 
 #Create teh authentication object
